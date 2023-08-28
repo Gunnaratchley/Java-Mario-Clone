@@ -7,4 +7,5 @@ Pressing 't' will allow you to click to add or remove tubes.
 Pressing 'g' will allow you to click to add or remove goombas.
 Pressing 's' will save the map to a Json object
 Pressing 'q' will quit the game.
+Pressing 'ctrl' will shoot a fireball.
 Functionality is currently limited at the moment and is still a work in progress.
